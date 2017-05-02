@@ -1,0 +1,42 @@
+header #head {
+  background-image: url(../ip2/assets/backgrounds/landing.jpg);
+  background-repeat: no-repeat;
+  background: cover;
+  text-align: center;
+}
+
+.row1 {
+  background-color: white;
+  height: 10px;
+}
+
+.row2 {
+  background-color: orange;
+  height: 10px;
+}
+
+.breakfast {
+  background-image: url(../ip2/assets/foodtop/breakfast.jpg);
+  text-align: center;
+  height: 120px
+}
+
+.lunch {
+  background-image: url(../ip2/assets/foodtop/lunch.jpg);
+  text-align: center;
+  height: 120px
+}
+
+.dinner {
+  background-image: url(../ip2/assets/foodtop/dinner2.jpg);
+  text-align: center;
+  height: 120px
+}
+
+.row1 {
+  background-image: url(../ip2/assets/footerlogos/fastFood1.jpg);
+}
+
+.row2 {
+  background-image: url(../ip2/assets/footerlogos/fastFood2.jpg);
+}
