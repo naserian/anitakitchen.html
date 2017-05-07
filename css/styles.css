@@ -6,37 +6,124 @@ header #head {
 }
 
 .row1 {
-  background-color: white;
-  height: 10px;
+  background-color: grey;
+  height: 75px;
+  width: 300px;
+  font-size: 45px;
 }
 
 .row2 {
-  background-color: orange;
-  height: 10px;
+  background-color: #F15A29;
+  height: 85px;
+  width: 300px;
+  font-size: 45px;
 }
 
 .breakfast {
   background-image: url(../ip2/assets/foodtop/breakfast.jpg);
   text-align: center;
-  height: 120px
+  height: 160px;
 }
 
 .lunch {
   background-image: url(../ip2/assets/foodtop/lunch.jpg);
   text-align: center;
-  height: 120px
+  height: 160px
 }
 
 .dinner {
   background-image: url(../ip2/assets/foodtop/dinner2.jpg);
   text-align: center;
-  height: 120px
+  height: 160px
 }
 
-.row1 {
-  background-image: url(../ip2/assets/footerlogos/fastFood1.jpg);
+body #btm {
+  background-image: url(../ip2/assets/backgrounds/foodsBg.jpg);
+  background-repeat: no-repeat;
+  background: cover;
 }
 
-.row2 {
-  background-image: url(../ip2/assets/footerlogos/fastFood2.jpg);
+h1 {
+  color: #F15A29;
+  font-weight: bold;
+  margin-top: : 5px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  margin: 5px;
+}
+
+.burger {
+  background-color: white;
+  margin: 50px;
+  padding: 50px;
+}
+
+.customers {
+  padding: 30px;
+}
+
+.menu {
+  padding: 10px;
+}
+
+h3 {
+  color: #F15A29;
+  text-align: center;
+  font-weight: bold;
+}
+
+body #almost {
+  background-image: url(../ip2/assets/backgrounds/subscribe.jpg);
+  background: cover;
+  background-repeat: no-repeat;
+  height: 450px;
+}
+
+h4 {
+  text-align: center;
+  color: #ffffff;
+  font-size: 50px;
+  margin-top: 40px;
+}
+
+.form-group {
+  padding: 50px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  width: 450px;
+  color: grey;
+  position: center;
+}
+
+.form-control {
+  background-color: #D3D3D3;
+  width: 150px;
+  align: center;
+}
+
+.btn {
+  background-color: #F15A29;
+  width: 100px;
+  align: center;
+}
+
+body #done {
+  background-color: #F15A29;
+  height: 200px;
+  background: cover;
+  background-repeat: no-repeat;
+}
+
+h5 {
+  color: #ffffff;
+  text-align: center;
+}
+
+h6 {
+  color: #ffffff;
+  text-align: center;
 }
